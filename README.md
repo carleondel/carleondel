@@ -10,6 +10,7 @@ Thriving on continuous learning, I am always eager to embrace new challenges and
 
 ## Technologies:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)]()
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)]()
@@ -21,8 +22,11 @@ Thriving on continuous learning, I am always eager to embrace new challenges and
 
 
 
-
-
+<!--
+### Stats
+[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carleondel&show_icons=true&count_private=true&theme=merko)](https://github.com/carleondel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carleondel&layout=compact&theme=merko)](https://github.com/carleondel/github-readme-stats)
+- --!>
 
 
 
