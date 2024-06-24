@@ -15,6 +15,9 @@ Thriving on continuous learning, I am always eager to embrace new challenges and
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)]()
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)]()
 
+[![Snowflake](https://img.shields.io/badge/Snowflake-38B2AC?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=101010)]()
+[![dbt](https://img.shields.io/badge/dbt-FF5733?style=for-the-badge&logo=dbt&logoColor=white&labelColor=101010)]()
+
 
 ## Contact:
 [![Email](https://img.shields.io/badge/carleondel@gmail.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:carleondel@gmail.com)
