@@ -1,9 +1,7 @@
 ### Hi, my name is Carlos León 👋
-Results-driven Data Engineer and Data Scientist with a strong background in Math, Machine Learning, and Artificial Intelligence.📌
+Data Engineer with a strong background in Math.📌
 
-Unlocking the potential hidden within data and driving impactful decisions for organizations is my mission, backed by advanced proficiency in programming languages like Python, SQL, and R, complemented by hands-on experience in data modeling (including Machine Learning and Deep Learning) as well as data visualization. 📊
-
-Thriving on continuous learning, I am always eager to embrace new challenges and opportunities in this ever-evolving field.🌱
+Curious & always learning.🌱
 
 ## LinkedIn Profile:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_León-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carleondel/)
