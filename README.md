@@ -1,7 +1,9 @@
 ### Hi, my name is Carlos León 👋
-Data Engineer with a strong background in Math. Spain.📌
+Data Engineer with a background in Math from Spain📌
 
-Curious & always learning.🌱
+I love automating workflows and telling data stories about anything I'm curious about 🌱 
+
+
 
 ## LinkedIn Profile:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_León-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carleondel/)
@@ -21,7 +23,7 @@ Curious & always learning.🌱
 [![Email](https://img.shields.io/badge/carleondel@gmail.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:carleondel@gmail.com)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carleondel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### Stats
