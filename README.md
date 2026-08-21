@@ -32,4 +32,8 @@ Data Engineer with a background in Math, building analytics workflows, data mode
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white&labelColor=101010)]()
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carleondel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+
+[![Carlos's GitHub stats](https://github-stats-extended.vercel.app/api?username=carleondel&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=carleondel&layout=compact&theme=radical)](https://github.com/stats-organization/github-stats-extended)
